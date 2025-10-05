@@ -1,17 +1,22 @@
 # Picture classificatior
 
 Simple Java 17 project to decide whether an image from a dataset can be acceptable for the project's interest or not
+
 Done very quickly, thanks also to the OOP project delivered a few months earlier
+
 It is therefore not very elegant, but it has proven to be particularly useful for quickly merging multiple datasets and thus reaching a total of 2400 images
 
+<br>
 A few images have been left to provide a quick demonstration of how it works
 
+<br>
 Use Gradle to run the program, either with the support of VSCode or with the command:
 ```bash
 gradle run
 ```
 
 Before the command, upload your photo in ./resources/TOSELECT and relative labels in ./resources/LABS
+
 Press 'S', and you are ready to classify your pictures!
 
 ## Just a few comands
