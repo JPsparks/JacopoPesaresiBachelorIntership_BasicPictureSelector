@@ -7,7 +7,9 @@ It is therefore not very elegant, but it has proven to be particularly useful fo
 A few images have been left to provide a quick demonstration of how it works
 
 Use Gradle to run the program, either with the support of VSCode or with the command:
-> gradle run
+```bash
+gradle run
+```
 
 Before the command, upload your photo in ./resources/TOSELECT and relative labels in ./resources/LABS
 Press 'S', and you are ready to classify your pictures!
